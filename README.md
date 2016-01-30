@@ -2,8 +2,6 @@
 
 José Luis Sánchez
 
-![alt tag](https://github.com/jsancheh/ForkLayout/blob/master/captura.png)
-
 # ForkLayout
 
 Parallax layout que recrea el mismo efecto que la aplicación de "El Tenedor", "TheFork" o "LaFourchette". Se compone de una lista de elementos (RecyclerView) con imágenes, las cuales con el desplzamiento del Scroll crean un efecto parallax. 
@@ -11,6 +9,8 @@ Parallax layout que recrea el mismo efecto que la aplicación de "El Tenedor", "
 Hay dos tipos de efectos, uno en el que la imagen se desplaza al contrario que la dirección del scroll y otro en el que la imagen se desplaza en la misma dirección pero con una velocidad menor provocando un efecto. 
 
 Para usar la lista solo teneis que usar las clases ParallaxRecycler.java, SquareImageView.java, ParallaxAdapter.java y el recurso lay_parallax_row.xml. El resto de elementos son añadidos para configurar el ejemplo.
+
+![alt tag](https://github.com/jsancheh/ForkLayout/blob/master/captura.png)
 
 # Uso
 ParallaxRecycler.java
