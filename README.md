@@ -2,6 +2,8 @@
 
 José Luis Sánchez
 
+![alt tag](https://github.com/jsancheh/ForkLayout/blob/master/captura.png)
+
 # ForkLayout
 
 Parallax layout que recrea el mismo efecto que la aplicación de "El Tenedor", "TheFork" o "LaFourchette". Se compone de una lista de elementos (RecyclerView) con imágenes, las cuales con el desplzamiento del Scroll crean un efecto parallax. 
