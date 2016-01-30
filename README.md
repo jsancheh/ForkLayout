@@ -4,7 +4,7 @@ José Luis Sánchez
 
 # ForkLayout
 
-Parallax layout que recrea el mismo efecto que la aplicación de "El Tenedor", "TheFork" o "LaFourchette". Se compone de una lista de elementos (RecyclerView) con imágenes, las cuales con el desplzamiento del Scroll crean un efecto parallax. 
+Con este layout he querido recrear el mismo efecto que implementa la aplicación de "El Tenedor", "TheFork" o "LaFourchette" en su vista principal. Se compone de una lista de elementos (RecyclerView) con imágenes, las cuales con el desplzamiento del Scroll crean un efecto parallax. 
 
 Hay dos tipos de efectos, uno en el que la imagen se desplaza al contrario que la dirección del scroll y otro en el que la imagen se desplaza en la misma dirección pero con una velocidad menor provocando un efecto. 
 
