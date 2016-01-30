@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jlsh/Documents/proyectos/Android/ElTenedorLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/jlsh/Documents/proyectos/Android/ElTenedorLayout/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_f9488d9c17cc698393beb30e83b487db589da54e.jar" />
+    </item>
+    <item
+        jar="/Users/jlsh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/jlsh/Documents/proyectos/Android/ElTenedorLayout/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_ad5d55f2abb254393a9e60123a2e5f62f988aba9.jar" />
+    </item>
+    <item
+        jar="/Users/jlsh/Documents/proyectos/Android/ElTenedorLayout/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/jlsh/Documents/proyectos/Android/ElTenedorLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_4dce2b10c45e9b8bc29aa5c3b5b7440f846b0068.jar" />
+    </item>
+    <item
+        jar="/Users/jlsh/Documents/proyectos/Android/ElTenedorLayout/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/jlsh/Documents/proyectos/Android/ElTenedorLayout/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_281726ae9002f25f48c594dbb537b110ee66301f.jar" />
+    </item>
+    <item
+        jar="/Users/jlsh/Documents/proyectos/Android/ElTenedorLayout/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/jlsh/Documents/proyectos/Android/ElTenedorLayout/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_8905eb92a6517668ed458aa2d65c66d5a5c5cc2f.jar" />
+    </item>
+    <item
+        jar="/Users/jlsh/Documents/proyectos/Android/ElTenedorLayout/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/jlsh/Documents/proyectos/Android/ElTenedorLayout/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_54b02ea002592ad9cb4a515ccc2036fad894aa55.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@android:color/black"
+    android:layout_height="@dimen/rowHeight">
+
+    <RelativeLayout
+        android:layout_marginLeft="@dimen/marginSmall"
+        android:layout_marginRight="@dimen/marginSmall"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/rowHeight">
+
+        <!-- IMAGEN CUADRADA -->
+
+        <com.joseluis.eltenedorlayout.views.SquareImageView
+            android:layout_centerInParent="true"
+            android:src="@mipmap/bg_banzai"
+            android:id="@+id/imgParallax"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"/>
+
+
+        <!-- SOMBRA -->
+
+        <LinearLayout
+            android:background="@color/colorBgSquareImage"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </LinearLayout>
+
+        <!-- NOMBRE -->
+
+        <TextView
+            android:id="@+id/tvName"
+            android:layout_above="@+id/tvPromotion"
+            android:text="@string/app_name"
+            android:textSize="@dimen/textSizeSmallMedium"
+            android:textStyle="bold"
+            android:padding="@dimen/marginSmall"
+            android:background="@android:color/black"
+            android:textColor="@android:color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="@dimen/marginMedium"/>
+
+        <!-- PROMOCION -->
+
+        <TextView
+            android:id="@+id/tvPromotion"
+            android:text="@string/app_name"
+            android:textSize="@dimen/textSizeVerySmall"
+            android:textStyle="normal"
+            android:padding="@dimen/marginSmall"
+            android:background="@android:color/holo_orange_dark"
+            android:textColor="@android:color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="@dimen/marginMedium"
+            android:layout_marginLeft="@dimen/marginMedium" />
+
+        <!-- VALORACION -->
+
+        <TextView
+            android:id="@+id/tvRating"
+            android:layout_above="@+id/tvPromotion"
+            android:layout_toRightOf="@+id/tvName"
+            android:text="@string/rating_def"
+            android:textSize="@dimen/textSizeSmallMedium"
+            android:textStyle="normal"
+            android:padding="@dimen/marginSmall"
+            android:background="@android:color/holo_blue_light"
+            android:textColor="@android:color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+
+        <!-- DISTANCIA -->
+
+        <TextView
+            android:id="@+id/tvDistance"
+            android:text="@string/distance_def"
+            android:textSize="@dimen/textSizeSmall"
+            android:padding="@dimen/marginSmall"
+            android:background="@color/colorDistance"
+            android:textColor="@android:color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="@dimen/marginMedium"
+            android:layout_marginRight="@dimen/margin"/>
+
+    </RelativeLayout>
+
+</LinearLayout>

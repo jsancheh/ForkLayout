@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Restaurantes</string>
+    <string name="restaurant_def">Diverxo</string>
+    <string name="rating_def">9.1</string>
+    <string name="distance_def">100m</string>
+
+    <string name="banzai">Banzai</string>
+    <string name="loft">Loft 39</string>
+    <string name="lavaca">La Vaca Argentina</string>
+    <string name="james">St James</string>
+    <string name="pecado">Pecado Carnal</string>
+    <string name="newyork">New York Burger</string>
+    <string name="welow">Welow</string>
+    <string name="sumo">Sumo Azca</string>
+
+    <string name="banzai_rating">7.2</string>
+    <string name="loft_rating">9.3</string>
+    <string name="lavaca_rating">8</string>
+    <string name="james_rating">8.1</string>
+    <string name="pecado_rating">6.8</string>
+    <string name="newyork_rating">9</string>
+    <string name="welow_rating">8</string>
+    <string name="sumo_rating">8.3</string>
+
+    <string name="promo_1">30% en Carta</string>
+    <string name="promo_2">50% en Carta</string>
+    <string name="promo_3">2x1 en Menus degustación</string>
+
+    <string name="distance1">18m</string>
+    <string name="distance2">34m</string>
+    <string name="distance3">81m</string>
+    <string name="distance4">93m</string>
+    <string name="distance5">106m</string>
+    <string name="distance6">402m</string>
+    <string name="distance7">700m</string>
+    <string name="distance8">1.2km</string>
+
+</resources>
