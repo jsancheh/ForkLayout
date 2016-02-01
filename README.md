@@ -19,6 +19,16 @@ ParallaxRecycler recycler = (ParallaxRecycler) view.findViewById(R.id.recycler);
 recycler.setAdapter(adapter);
 </code></pre>
 
+Por defecto viene configurado el efecto DOWN, pero podemos cambiarlo:
+<code><pre>
+recycler.setTypeEffect(ParallaxRecycler.EFFECT_UP);
+</code></pre>
+
+Al igual que la velocidad del efecto (float entre 0.01 y 0.99):
+<code><pre>
+recycler.setScrollSpeed(float);
+</code></pre>
+
 lay_parallax_row.xml
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
